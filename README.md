@@ -1,1 +1,3 @@
 # Predicting-Titanic-Survival
+In the Titanic Survival Project,it aims to analyze various factors that influenced the survival of passengers aboard the Titanic during its ill-fated voyage in 1912. Through comprehensive data analysis, including demographics, ticket class, location on the ship, and historical accounts, the project seeks to understand patterns and correlations that determined who survived and who perished.
+In this ,one of the supervised machine learning algorithms that is logistic regression is implement to predict the survival of passengers.Various necessary steps is performed such as data loading , data cleaning ,exploratory data analysis ,model building and model evaluation etc.
